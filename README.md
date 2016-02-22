@@ -6,12 +6,12 @@ This is simply a list of resources that a member of Smithies in CS (or anyone in
 	- Department of Computer Science
     - Smithies in CS
     - Funding
-2. Getting a Job/Internship
+2. [Getting a Job/Internship](https://github.com/ralren/smithies-in-cs-resources#getting-a-job/internship)
 	- Guides
 	- Job Boards
 	- Fellowships
   	- Remote-Related
-3. Events
+3. [Events](https://github.com/ralren/smithies-in-cs-resources#events)
 	- Conferences
 	- Summits
 	- Programs
