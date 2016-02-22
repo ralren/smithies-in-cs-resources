@@ -6,7 +6,7 @@ This is simply a list of resources that a member of Smithies in CS (or anyone in
 	- Department of Computer Science
     - Smithies in CS
     - Funding
-2. [Getting a Job/Internship](https://github.com/ralren/smithies-in-cs-resources#getting-a-job/internship)
+2. [Getting a Job/Internship](https://github.com/ralren/smithies-in-cs-resources#getting-a-job-or-internship)
 	- Guides
 	- Job Boards
 	- Fellowships
@@ -38,7 +38,7 @@ This is simply a list of resources that a member of Smithies in CS (or anyone in
 - [Praxis Internships](http://www.smith.edu/acad_specialpraxis.php)
 
 
-# Getting a Job/Internship
+# Getting a Job or Internship
 
 ## Guides
 - [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig)
