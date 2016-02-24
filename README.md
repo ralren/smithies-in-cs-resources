@@ -11,7 +11,8 @@ This is simply a list of resources that a member of Smithies in CS (or anyone in
 	- Job Boards
 	- Fellowships
   	- Remote-Related
-    - First-Year/Sophmore Specific Programs
+    - First-Year/Sophmore Specific
+    - Open Source Specific
 3. [Events](https://github.com/ralren/smithies-in-cs-resources#events)
 	- Conferences
 	- Summits
@@ -84,10 +85,15 @@ This is simply a list of resources that a member of Smithies in CS (or anyone in
 - [Hacker Paradise](http://www.hackerparadise.org/)
 - [deceler8](http://www.sierraymar.co/decelerate/#intro)
 
-## First-Year/Sophomore Specific Programs
+## First-Year/Sophomore Specific
 - [Microsoft Explore](https://careers.microsoft.com/students/explore)
 - [Google's Engineering Practicum](https://www.google.com/about/careers/search?src=Online/TOPs/NA+Tech+University#!t=jo&jid=120165001)
 - [Facebook University for Engineering](https://www.facebook.com/careers/university/fbueng)
+
+## Open Source Specific
+- [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
+- [Outreachy](https://wiki.gnome.org/Outreachy)
+- [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
 # Events
 
@@ -140,7 +146,3 @@ This is simply a list of resources that a member of Smithies in CS (or anyone in
 - [HackerRank](https://www.hackerrank.com/)
 - [Project Euler](https://projecteuler.net/)
 - [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)
-
-
-
-
