@@ -62,6 +62,8 @@ This is simply a list of resources that a member of Smithies in CS (or anyone in
 - [USAJOBS](https://www.usajobs.gov/)
 - [HNHiring](http://hnhiring.me/)
 - [GitHub Jobs](https://jobs.github.com/)
+- [Power to Fly](https://www.powertofly.com/)
+- [recruitHER](http://www.recruither.io/)
 
 ## Fellowships
 - [hackNY Fellows Program](https://apply.hackny.org/)
